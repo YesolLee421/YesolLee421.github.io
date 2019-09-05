@@ -118,7 +118,7 @@ author:
       # url: "dldPthf421@gmail.com"
     - label: "Naver Blog"
       icon: "fas fa-fw fa-link"
-       url: "https://blog.naver.com/mk45118"
+       url: 
    # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,10 +127,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/YesolLee421"
+       url: 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/yesol_mango/"
+       url: 
 
 # Site Footer
 footer:
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/YesolLee421"
+       url: 
    # - label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/yesol_mango/"
+       url: 
 
 
 # Reading Files
