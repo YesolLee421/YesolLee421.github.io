@@ -113,7 +113,7 @@ author:
   location         : "Seoul, Korea"
   email            : "dldPthf421@gmail.com"
   links:
-    #- label: "Email"
+   # - label: "Email"
      # icon: "fas fa-fw fa-envelope-square"
       # url: "dldPthf421@gmail.com"
     - label: "Naver Blog"
@@ -122,7 +122,7 @@ author:
    # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    #- label: "Facebook"
+    # - label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
@@ -147,7 +147,7 @@ footer:
    # - label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:
-    #- label: "Bitbucket"
+    # - label: "Bitbucket"
     #  icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
