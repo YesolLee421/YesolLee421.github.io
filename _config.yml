@@ -113,9 +113,9 @@ author:
   location         : "Seoul, Korea"
   email            : "dldPthf421@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "dldPthf421@gmail.com"
+    #- label: "Email"
+     # icon: "fas fa-fw fa-envelope-square"
+      # url: "dldPthf421@gmail.com"
     - label: "Naver Blog"
       icon: "fas fa-fw fa-link"
        url: "https://blog.naver.com/mk45118"
