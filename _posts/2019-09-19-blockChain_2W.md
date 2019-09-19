@@ -11,7 +11,7 @@ categories:
 ## 암호화폐 비트코인의 핵심기술, 블록체인(1)
 
 ### 1. 비트코인 소프트웨어 모듈 구성
-![비트코인 프로그램 모듈 구성](..\assets\블록체인프로그램모듈.PNG)<br>
+![블록체인 프로그램 모듈](https://user-images.githubusercontent.com/54266900/65238049-d3c24b00-db16-11e9-8ea9-5c8c2970e684.PNG)
 
 - 지갑 (Wallet): 실제 암호화폐 사용과 관련된 기능
 - 풀 블록체인(Full Blockchain): 모든 거래 기록, 즉 블록체인을 저장하는 기능
@@ -19,7 +19,7 @@ categories:
 - Network Routing Node: 통신을 위한 소프트웨어 모듈
 
 ### 2. 비트코인의 사용 = 인터넷뱅킹 계좌이체
-![비트코인 프로그램 모듈 구성](..\assets\비트코인사용.PNG)<br>
+![비트코인사용](https://user-images.githubusercontent.com/54266900/65238054-d58c0e80-db16-11e9-9bd0-e4a976929ed4.PNG)<br>
 
 1. 비트코인 계좌 개설
     - 이미지 (2)의 숫자, 문자 배열 = 비트코인 계좌번호
@@ -53,7 +53,7 @@ categories:
 # 암호화폐 비트코인의 핵심기술, 블록체인
 ## 블록체인의 투표 메커니즘(1): Safety 방식
 ### 블록체인 기술 - 합의(1): Safety 방식 개요
-![비트코인 프로그램 모듈 구성](..\assets\블록체인_safety.PNG)<br>
+![블록체인_safefy](https://user-images.githubusercontent.com/54266900/65238052-d45ae180-db16-11e9-8aac-b1d43a293e0e.PNG)<br>
 - A, B, C, D, E 5명의 사용자가 있다고 가정할 때
 - 10분이 지나면 한 명씩 차례대로 블록을 제시한다.
 - 만장일치가 나오면 해당 블록을 각자 PC에 저장한다.
@@ -66,6 +66,7 @@ categories:
 # 암호화폐 비트코인의 핵심기술, 블록체인
 ## 블록체인의 투표 메커니즘(2): Liveness 방식
 ### 블록체인 기술 - 합의(1): Liveness 방식 개요
+![블록체인_liveness](https://user-images.githubusercontent.com/54266900/65238050-d45ae180-db16-11e9-90d8-cf6230f25020.PNG)<br>
 - A, B, C, D, E 5명의 사용자가 있다고 가정할 때
 - 10분이 지나면 한 명씩 차례대로 블록을 제시한다.
 - 만장일치가 나오면 해당 블록을 각자 PC에 저장한다.<br>
@@ -85,7 +86,7 @@ categories:
 - 롱기스트 체인 룰: 어느 줄이 가장 긴 지는 항상 바뀔 수 있음
 - 따라서 별도의 약속 필요
 - '줄 길이 차이가 6개 블록 이상 나면 그 블록체인은 안정화된 것으로 인정하자'<br>
-![비트코인 프로그램 모듈 구성](..\assets\블록체인_liveness_안정화.PNG)<br>
+![블록체인_liveness_안정화](https://user-images.githubusercontent.com/54266900/65238051-d45ae180-db16-11e9-9145-edc95a063885.PNG)<br>
 - A, B, D 세 블록은 분기점의 다른 블록과 비교해 6개 이상의 차이가 나서 안정화된 블록이다.
 - 안정화되지 않은 블록들은 판정이 번복될 가능성을 가지고 있다.<br>
 
@@ -93,7 +94,7 @@ categories:
 # 암호화폐 비트코인의 핵심기술, 블록체인
 ## 블록체인 합의 방식 비교
 ### 1. Safety VS Liveness 비교
-![비트코인 프로그램 모듈 구성](..\assets\블록체인합의방식비교.PNG)<br>
+![블록체인합의방식비교](https://user-images.githubusercontent.com/54266900/65238053-d4f37800-db16-11e9-9cd9-3c9ec203d674.PNG)<br>
 
 | Safety (Consensus Finality) | Liveness(Termination) |
 |---|:---:|
