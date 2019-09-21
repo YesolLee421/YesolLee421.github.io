@@ -295,12 +295,4 @@ categories:
 [거버넌스]: https://ko.wikipedia.org/wiki/%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4
 
 
-
-
-
-
-
-
-
-
 [알기쉬운알고리즘]: http://www.kmooc.kr/courses/course-v1:SJCU+SJCU01+2019_2/courseware/145ba5714d1246c1b65fe1b081d52db0/e1af1659e74343579fe5727acdfcfbc7/?child=last
