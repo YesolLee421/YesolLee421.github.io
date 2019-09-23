@@ -4,7 +4,7 @@ categories:
   - BlockChain
   - 블록체인
 ---
-*이 내용은 K-MOOC [알기쉬운알고리즘] 강의를 듣고 정리한 내용입니다.*
+*이 내용은 K-MOOC [알기쉬운블록체인] 강의를 듣고 정리한 내용입니다.*
 <br>
 
 ## 4차 산업혁명 개요와 사이버 위협(1)
@@ -160,7 +160,7 @@ categories:
     
     
     
-[알기쉬운알고리즘]: http://www.kmooc.kr/courses/course-v1:SJCU+SJCU01+2019_2/courseware/145ba5714d1246c1b65fe1b081d52db0/e1af1659e74343579fe5727acdfcfbc7/?child=last
+[알기쉬운블록체인]: http://www.kmooc.kr/courses/course-v1:SJCU+SJCU01+2019_2/courseware/145ba5714d1246c1b65fe1b081d52db0/e1af1659e74343579fe5727acdfcfbc7/?child=last
 
 
 

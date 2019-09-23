@@ -4,7 +4,7 @@ categories:
   - BlockChain
   - 블록체인
 ---
-*이 내용은 K-MOOC [알기쉬운알고리즘] 강의를 듣고 정리한 내용입니다.*
+*이 내용은 K-MOOC [알기쉬운블록체인] 강의를 듣고 정리한 내용입니다.*
 <br>
 
 # 암호화폐 비트코인의 핵심기술, 블록체인
@@ -96,10 +96,11 @@ categories:
 ![블록체인합의방식비교](https://user-images.githubusercontent.com/54266900/65238053-d4f37800-db16-11e9-9cd9-3c9ec203d674.PNG)<br>
 
 | Safety (Consensus Finality) | Liveness(Termination) |
-|---|:---:|
+|:---:|:---:|
 | **선투표 후기록** | **선기록 후투표** | 
 | 무한대기 가능성 | 판정 번복의 가능성 | 
-| `Tendermint`,`PBFT-style BlockChain` | `Bitcoin` |  
+| `Tendermint`,`PBFT-style BlockChain` | `Bitcoin` |
+
 <br>
 
 
@@ -295,4 +296,4 @@ categories:
 [거버넌스]: https://ko.wikipedia.org/wiki/%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4
 
 
-[알기쉬운알고리즘]: http://www.kmooc.kr/courses/course-v1:SJCU+SJCU01+2019_2/courseware/145ba5714d1246c1b65fe1b081d52db0/e1af1659e74343579fe5727acdfcfbc7/?child=last
+[알기쉬운블록체인]: http://www.kmooc.kr/courses/course-v1:SJCU+SJCU01+2019_2/courseware/145ba5714d1246c1b65fe1b081d52db0/e1af1659e74343579fe5727acdfcfbc7/?child=last
