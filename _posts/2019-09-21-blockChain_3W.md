@@ -3,6 +3,7 @@ title: "[블록체인] 3주차_블록체인과 소프트웨어 기술"
 categories:
   - BlockChain
   - 블록체인
+comments : true
 ---
 *이 내용은 K-MOOC [알기쉬운블록체인] 강의를 듣고 정리한 내용입니다.*
 <br>
