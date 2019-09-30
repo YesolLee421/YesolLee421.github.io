@@ -111,10 +111,10 @@ comments : true
 
 
 * 출처
-- [기본기를 쌓는 정아마추어 코딩블로그] https://jeong-pro.tistory.com/180 
-- [마이크로소프트 REST 가이드라인] https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
-- [REST 위키피디아(eng)] https://en.wikipedia.org/wiki/Representational_state_transfer
-- [Retrofit 공식 한글문서] http://devflow.github.io/retrofit-kr/
+    - [기본기를 쌓는 정아마추어 코딩블로그] https://jeong-pro.tistory.com/180 
+    - [마이크로소프트 REST 가이드라인] https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
+    - [REST 위키피디아(eng)] https://en.wikipedia.org/wiki/Representational_state_transfer
+    - [Retrofit 공식 한글문서] http://devflow.github.io/retrofit-kr/
 
 
 
