@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus"
   disqus:
     shortname            : 'YesolLee_github_io'
   discourse:
@@ -65,14 +65,14 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true
+search_full_content      : true
+search_provider          : algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : "KCDVLFML77"
+  index_name             : "test_github_io_YesolLee421"
+  search_only_api_key    : "b7167b69025fdf1843a1e4747195c8f3"
+  powered_by             :  true 
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -158,7 +158,7 @@ footer:
 
 # Reading Files
 include:
-  - .htaccess
+  - .htaccesstheme: minimal-mistakes-jekyll
   - _pages
 exclude:
   - "*.sublime-project"
@@ -293,8 +293,9 @@ defaults:
       comments:  true 
       share: true
       related: true
+    # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
