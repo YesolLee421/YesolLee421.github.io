@@ -2,7 +2,7 @@
 title: "[블록체인] 5주차_블록체인과 소유권"
 categories:
   - BlockChain
-  - 블록체인
+
 comments : true
 ---
 *이 내용은 K-MOOC [알기쉬운블록체인] 강의를 듣고 정리한 내용입니다.*

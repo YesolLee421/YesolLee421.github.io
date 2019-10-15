@@ -2,10 +2,7 @@
 title: "[Android] REST, RESTful API, Retrofit 조사"
 categories:
   - REST
-  - RESTful API
-  - RESTful
-  - Retrofit
-  - HTTP
+
 comments : true
 ---
 

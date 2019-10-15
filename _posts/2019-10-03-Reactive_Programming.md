@@ -1,15 +1,8 @@
 ---
 title: "[Reactive Programming] 프로그래밍 패러다임과 Reactive Programming"
 categories:
-  - Programming Paradigm
-  - 프로그래밍 패러다임
   - Reactive Programming
-  - 반응형 프로그래밍
-  - 명령형 프로그래밍
-  - Imperative Programming
-  - 함수형 프로그래밍
-  - Functional Programming
-  - RxJava
+
 comments : true
 ---
 
