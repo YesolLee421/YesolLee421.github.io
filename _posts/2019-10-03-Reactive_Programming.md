@@ -1,7 +1,6 @@
 ---
 title: "[Reactive Programming] 프로그래밍 패러다임과 Reactive Programming"
-categories:
-  - Reactive Programming
+categories: [Reactive Programming]
 
 comments : true
 ---
