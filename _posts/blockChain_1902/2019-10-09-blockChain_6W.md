@@ -2,7 +2,11 @@
 title: "[블록체인] 6주차_블록체인과 암호기술 1"
 categories:
   - BlockChain
-tags: BlockChain, 블록체인, 해시함수
+tags:
+  - BlockChain
+  - 블록체인
+  - K-MOOC
+
 comments : true
 ---
 *이 내용은 K-MOOC [알기쉬운블록체인] 강의를 듣고 정리한 내용입니다.*
